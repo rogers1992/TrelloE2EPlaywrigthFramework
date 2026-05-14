@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","17264","should navigate to the login and login with valid credentials","chromium","2026-05-14","passed","2026-05-14","","Login/login.spec.ts","",""
+"","15323","should navigate to the login and login with valid credentials","firefox","2026-05-14","passed","2026-05-14","","Login/login.spec.ts","",""
